@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripathipalak/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0202-happy-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripathipalak/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripathipalak/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/tripathipalak/Leetcode-problems/tree/master/0038-count-and-say) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripathipalak/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tripathipalak/Leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripathipalak/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
