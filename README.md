@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tripathipalak/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/tripathipalak/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripathipalak/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/tripathipalak/Leetcode-problems/tree/master/0038-count-and-say) |
+| [0344-reverse-string](https://github.com/tripathipalak/Leetcode-problems/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripathipalak/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
