@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tripathipalak/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tripathipalak/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tripathipalak/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tripathipalak/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/tripathipalak/Leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tripathipalak/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tripathipalak/Leetcode-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tripathipalak/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/tripathipalak/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -38,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tripathipalak/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tripathipalak/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tripathipalak/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tripathipalak/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tripathipalak/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tripathipalak/Leetcode-problems/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripathipalak/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -63,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tripathipalak/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tripathipalak/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
